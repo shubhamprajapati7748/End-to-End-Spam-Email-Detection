@@ -61,7 +61,7 @@ Follow these steps to install and set up the project directly from the GitHub re
    - Navigate to the directory where you want to install the project.
    - Run the following command to clone the GitHub repository:
      ```
-     git clone <Repo_Name>
+     git clone https://github.com/shubhamprajapati7748/End-to-End-Spam-Email-Detection
      ```
 
 2. **Create a Virtual Environment** (Optional but recommended)
